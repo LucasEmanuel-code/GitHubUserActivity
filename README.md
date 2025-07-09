@@ -15,3 +15,14 @@ Uma ferramenta CLI para visualizar atividades recentes de usuários do GitHub di
 ```bash
 git clone https://github.com/seu-usuario/GitHubUserActivity.git
 cd GitHubUserActivity
+```
+
+### Como executar
+# Sintaxe básica
+```bash
+dotnet run -- <username-do-github>
+```
+# Exemplo com o usuário 'octocat':
+```bash
+dotnet run -- octocat
+```
