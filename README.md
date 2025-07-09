@@ -1,8 +1,8 @@
-# 📊 GitHub Activity CLI
+# Ola, eu sou o Lucas 
+Projeto GitHub User Activity feito em C#: 
+Exemplo de solução para o desafio [github-user-activity](https://roadmap.sh/projects/github-user-activity) do [roadmap.sh](https://roadmap.sh/).
 
-## Ola, eu sou o Lucas 
-Projeto task tracker em Python: 
-Exemplo de solução para o desafio [task-tracker](https://roadmap.sh/projects/task-tracker) do [roadmap.sh](https://roadmap.sh/).
+# 📊 GitHub Activity CLI
 ![.NET Version](https://img.shields.io/badge/.NET-6.0-%23512bd4) 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
