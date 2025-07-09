@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\bin\Debug\net9.0\GitHubCLI.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\bin\Debug\net9.0\GitHubCLI.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\bin\Debug\net9.0\GitHubCLI.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\bin\Debug\net9.0\GitHubCLI.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\bin\Debug\net9.0\GitHubCLI.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\refint\GitHubCLI.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\GitHubCLI.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\GitHubUserActivity\GitHubCLI\obj\Debug\net9.0\ref\GitHubCLI.dll
