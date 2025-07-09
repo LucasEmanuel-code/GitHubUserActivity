@@ -11,18 +11,18 @@ Uma ferramenta CLI para visualizar atividades recentes de usuários do GitHub di
 - [.NET 6.0+](https://dotnet.microsoft.com/download)
 - Acesso à internet (para chamadas à API do GitHub)
 
-### Instalação
+## Instalação
 ```bash
 git clone https://github.com/seu-usuario/GitHubUserActivity.git
 cd GitHubUserActivity
 ```
 
-### Como executar
-# Sintaxe básica
+## Como executar
+### Sintaxe básica
 ```bash
 dotnet run -- <username-do-github>
 ```
-# Exemplo com o usuário 'octocat':
+### Exemplo com o usuário 'octocat':
 ```bash
 dotnet run -- octocat
 ```
